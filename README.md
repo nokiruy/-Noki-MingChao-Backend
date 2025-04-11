@@ -1,4 +1,4 @@
-# 项目名称：Noki-Wuthering-Waves-Backend
+# 项目名称：Noki-MingChao-Backend
 
 欢迎来到本项目！此脚本可以让游戏处于后台自动刷取cost4的声骸，支持一次选择所有世界boss，可以选择主声骸（其他声骸为主声骸垫刀），定时重启，还有防止视角偏移的boss残血不切人模式等等，可以一定程度预测世界boss副本boss的增加
 
@@ -9,7 +9,7 @@
 1. **不要点击“Code”按钮下载 ZIP 文件**，也不要使用“Clone”功能
 2. **请前往右侧的“Releases”页面**（或点击 [这里](https://github.com/nokiruy/Noki-hbr-Auto/releases)）。
 3. 在“Releases”页面，你会看到不同版本的发布内容。
-4. 选择最新的版本，并下载适合你设备的可执行文件（通常是 `Noki-Wuthering-Waves-Backend-v*.*.*.exe`之类的文件）。
+4. 选择最新的版本，并下载适合你设备的可执行文件（通常是 `Noki-MingChao-Backend-v*.*.*.exe`之类的文件）。
 5. 下载完成后，按照说明运行即可
 
 ## 其他信息
